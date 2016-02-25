@@ -1,0 +1,28 @@
+name: Spectacular Event Entertainment
+favicon: null
+layout_spectrum: 0.6832798009272665
+typography_spectrum: 0.6800577472895384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8119738011155277
+  lightness: 0.24327529687434435
+  saturation: 0.5150905670598149
+  rhythmicContrast: 0.04580430290661752
+purpose: []
